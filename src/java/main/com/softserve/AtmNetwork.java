@@ -1,6 +1,6 @@
-package com.softserve;
+package main.com.softserve;
 
-import java.util.List;
+        import java.util.List;
 
 /**
  * Created by Olavin on 20.10.2014.

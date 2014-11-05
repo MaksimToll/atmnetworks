@@ -1,4 +1,4 @@
-package com.softserve;
+package main.com.softserve;
 
 import java.util.List;
 import java.util.ArrayList;

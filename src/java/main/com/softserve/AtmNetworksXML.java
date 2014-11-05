@@ -1,4 +1,4 @@
-package com.softserve;
+package main.com.softserve;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -66,6 +66,7 @@ public class AtmNetworksXML {
             network.appendChild(bank);
             bank.appendChild(name);
             bank.appendChild(link);
+
 
 
         }
